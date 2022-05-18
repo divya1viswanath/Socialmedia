@@ -15,7 +15,7 @@ const Header = () => {
                 <div class="navbar-nav">
                     <Link class="nav-link active" to='/'>Add Post</Link>
                     <Link class="nav-link active" to='/search' >Search Post</Link>
-                    <Link class="nav-link active" to='/viewpro' >View All Post</Link>
+                    <Link class="nav-link active" to='/view' >View All Post</Link>
                 </div>
                 </div>
             </div>
